@@ -13,7 +13,7 @@
     "react-force-graph-2d": "1.23.8",
     "react-force-graph-3d": "1.21.10",
     "react-responsive-carousel": "3.2.20",
-    "react-scripts": "4.0.0"
+    "react-scripts": "4.0.3"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
